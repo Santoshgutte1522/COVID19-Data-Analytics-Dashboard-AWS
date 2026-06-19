@@ -166,7 +166,6 @@ COVID19-Data-Analytics-Dashboard-AWS
 Santosh Gutte
 
 Computer Engineering Student
-
-Vivekanand Education Society's Institute of Technology
+Vidyalankar Institute of Technology (VIT)
 
 Mumbai, India
